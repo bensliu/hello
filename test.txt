@@ -5,3 +5,4 @@ hello world
 - 4. changes from user 1
 
 - commit init
+- add hotfix
