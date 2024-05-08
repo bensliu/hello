@@ -6,3 +6,6 @@ hello world
 
 - commit init
 - add hotfix
+- commit amend
+- add changes from user 2
+- add changes from ben-test-2
